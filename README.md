@@ -50,6 +50,8 @@ Adanya kecenderungan pragmatisme masyarakat yang mengutamakan layanan gratis (ap
 
 **5.2. Erosi Batasan Privasi Digital**
 
+Budaya literasi digital yang belum matang menyebabkan mekanisme perizinan aplikasi seringkali dianggap sebagai formalitas teknis yang tidak krusial. Karakteristik masyarakat yang cenderung memberikan akses penuh pada sistem tanpa verifikasi menjadi pintu masuk bagi eksploitasi profil digital skala besar.
+
 **5.3. Dinamika Psikologi Massa (Herd Mentality)**
 
 
