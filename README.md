@@ -30,9 +30,15 @@
 ### BAB II: ANALISIS ETIKA DAN TANGGUNG JAWAB PROFESI
 **2.1. Kegagalan Mekanisme Informed Consent**
 
+Dalam etika profesi IT, *Informed Consent* bukan sekadar formalitas administrasi, melainkan manifestasi dari penghormatan terhadap otonomi pengguna. Dalam kasus FB-CA, terjadi manipulasi melalui desain sistem yang mengaburkan luasnya cakupan pengambilan data. Fakta bahwa data "teman dari pengguna" ikut terserap tanpa interaksi langsung menunjukkan pelanggaran berat terhadap prinsip privasi pihak ketiga yang tidak berdaya dalam sistem tersebut.
+
 **2.2. Etika Sektor Data Broker dan Komodifikasi Identitas**
 
+Terdapat degradasi moral ketika identitas digital manusia direduksi menjadi komoditas finansial murni. Cambridge Analytica, sebagai entitas *Data Broker*, mengabaikan integritas data demi memenangkan kepentingan politik klien. Hal ini bertentangan dengan tanggung jawab profesional untuk memberikan manfaat bagi publik dan menghindari bahaya (*do no harm*).
+
 **2.3. Akuntabilitas Pengembang Platform**
+
+Facebook, sebagai penyedia infrastruktur, memiliki tanggung jawab *Privacy by Design*. Kelalaian dalam pengawasan terhadap pihak ketiga (*third-party monitoring*) merupakan bentuk pengabaian profesional (*professional negligence*) yang menempatkan pertumbuhan metrik di atas keamanan data subjek.
 
 
 ---
