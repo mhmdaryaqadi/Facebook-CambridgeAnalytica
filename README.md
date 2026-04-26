@@ -94,4 +94,8 @@ Dalam sosiologi digital Indonesia, fenomena "kebenaran berdasarkan kuantitas" me
 ### BAB VI: KESIMPULAN DAN REKOMENDASI STRATEGIS
 **6.1. Kesimpulan**
 
+Skandal Facebook–Cambridge Analytica adalah bukti nyata bahwa kode dan algoritma bukan sekadar baris perintah teknis, melainkan instrumen kekuasaan sosial. Kegagalan dalam menjaga etika profesi IT berdampak langsung pada kerentanan sistem hukum dan stabilitas demokrasi.
+
 **6.2. Rekomendasi**
+
+Sebagai calon profesional informatika, kami merekomendasikan penerapan standar Privacy by Design yang ketat, penguatan regulasi melalui UU PDP secara konsisten, serta peningkatan literasi digital kritis di masyarakat untuk memitigasi risiko manipulasi kognitif berbasis data di masa depan.
