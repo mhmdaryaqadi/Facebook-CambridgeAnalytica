@@ -1,8 +1,21 @@
 # Laporan Analisis Strategis: Krisis Integritas Data Global
-**Studi Kasus: Eksploitasi Algoritma Facebook–Cambridge Analytica dan Implikasinya terhadap Ekosistem Digital Indonesia**
+*Studi Kasus: Eksploitasi Algoritma Facebook–Cambridge Analytica dan Implikasinya terhadap Ekosistem Digital Indonesia*
 
-### 🎓 Identitas Laporan
-(Isi dengan tabel identitas dan nama anggota kelompok)
+###  Identitas Laporan
+| Parameter | Deskripsi |
+| :--- | :--- |
+| *Mata Kuliah* | Etika Profesi - A |
+| *Klaster Analisis* | Platform, Ekonomi Gig, dan Transformasi Sosial |
+| *Kasus Utama* | Malapraktik Data Skala Global (Facebook–Cambridge Analytica) |
+| *Perspektif* | Etika Profesi, Yurisdiksi Hukum, dan Sosiologi Digital |
+| *Institusi* | Universitas Pancasila — Teknik Informatika |
+
+* Satgas Analisis (Kelompok):*
+* Muhammad Arya Alqadi (4524210058)
+* Muzakki Abrar (4524210071)
+* Muhammad Jibran Ferdian (4524210067)
+* Muhammad Arkan (4524210114)
+* Daffa Richadatul'Aisy (4524210136)
 
 ---
 
