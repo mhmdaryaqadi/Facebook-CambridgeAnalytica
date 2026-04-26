@@ -31,6 +31,9 @@
 ---
 
 ### BAB IV: ANALISIS YURISDIKSI DAN KERANGKA HUKUM INDONESIA
+
+Dalam konteks hukum nasional, tindakan eksploitasi data semacam ini memiliki konsekuensi hukum yang tegas di bawah dua instrumen utama:
+
 **4.1. UU Pelindungan Data Pribadi (UU PDP No. 27 Tahun 2022)**
 
 **4.2. UU Informasi dan Transaksi Elektronik (UU ITE)**
