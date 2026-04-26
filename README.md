@@ -10,7 +10,7 @@
 | *Perspektif* | Etika Profesi, Yurisdiksi Hukum, dan Sosiologi Digital |
 | *Institusi* | Universitas Pancasila — Teknik Informatika |
 
-** Satgas Analisis (Kelompok):**
+### Anggota Kelompok 11:
 * Muhammad Arya Alqadi (4524210058)
 * Muzakki Abrar (4524210071)
 * Muhammad Jibran Ferdian (4524210067)
