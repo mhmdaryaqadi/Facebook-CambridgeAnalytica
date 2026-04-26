@@ -54,6 +54,7 @@ Budaya literasi digital yang belum matang menyebabkan mekanisme perizinan aplika
 
 **5.3. Dinamika Psikologi Massa (Herd Mentality)**
 
+Dalam sosiologi digital Indonesia, fenomena "kebenaran berdasarkan kuantitas" menjadi tantangan besar. Jika algoritma berhasil menyusupkan narasi ke dalam struktur sosial (misalnya komunitas lokal atau grup digital keluarga), masyarakat cenderung mengadopsi informasi tersebut sebagai kebenaran kolektif. Fenomena ini, yang secara populer dianalogikan sebagai "ketidakpatuhan kolektif/lawan arah satu dusun", menunjukkan bahwa manipulasi algoritma dapat dengan mudah memicu polarisasi dan hoaks sistemik di Indonesia.
 
 ---
 
