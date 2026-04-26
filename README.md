@@ -27,6 +27,8 @@
 ### BAB III: IMPLIKASI TERHADAP KEDAULATAN DEMOKRASI
 **3.1. Senjataisasi Algoritma melalui Micro-Targeting**
 
+Analisis kami menunjukkan bahwa penggunaan profil psikologis untuk menyusun narasi propaganda kognitif telah menciptakan gelembung informasi (*filter bubbles*). Ketika algoritma mampu mengeksploitasi bias dan ketakutan individu secara personal, hak masyarakat untuk mendapatkan informasi yang objektif dan rasional menjadi terdistorsi. Hal ini merupakan ancaman eksistensial terhadap integritas demokrasi yang sehat.
+
 
 ---
 
