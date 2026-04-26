@@ -46,6 +46,8 @@ Efektivitas manipulasi algoritma global sangat bergantung pada karakteristik sos
 
 **5.1. Paradigma Konsumerisme Digital Tanpa Literasi**
 
+Adanya kecenderungan pragmatisme masyarakat yang mengutamakan layanan gratis (aplikasi gratisan/bajakan) membuat pengguna cenderung mengabaikan kompensasi yang mereka bayar, yaitu data pribadi. Hal ini menciptakan ekosistem yang ramah bagi *data broker* untuk melakukan pemanenan data secara masif tanpa hambatan berarti.
+
 **5.2. Erosi Batasan Privasi Digital**
 
 **5.3. Dinamika Psikologi Massa (Herd Mentality)**
