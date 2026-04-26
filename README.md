@@ -44,6 +44,7 @@ Merujuk pada Pasal 26 UU ITE, setiap informasi melalui media elektronik yang men
 
 **4.3. Paradoks Hak Kekayaan Intelektual (HKI)**
 
+Terdapat konflik antara HKI dalam bentuk Rahasia Dagang atas algoritma pemrosesan data dengan hak asasi individu atas data pribadi. Sering kali, perusahaan berlindung di balik perlindungan HKI algoritma untuk menutupi praktik eksploitatif terhadap data publik, menciptakan asimetri kekuasaan antara korporasi teknologi dan masyarakat.
 
 ---
 
