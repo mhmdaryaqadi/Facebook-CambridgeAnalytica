@@ -10,6 +10,7 @@
 | *Perspektif* | Etika Profesi, Yurisdiksi Hukum, dan Sosiologi Digital |
 | *Institusi* | Universitas Pancasila — Teknik Informatika |
 
+**Dosen Pengampu:** Adi Wahyu Pribadi, S.Si., M.Kom
 ### Anggota Kelompok 11:
 * Muhammad Arya Alqadi (4524210058)
 * Muzakki Abrar (4524210071)
