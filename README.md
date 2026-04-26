@@ -1,15 +1,32 @@
 # Laporan Analisis Strategis: Krisis Integritas Data Global
-**Studi Kasus: Eksploitasi Algoritma Facebook–Cambridge Analytica dan Implikasinya terhadap Ekosistem Digital Indonesia**
+*Studi Kasus: Eksploitasi Algoritma Facebook–Cambridge Analytica dan Implikasinya terhadap Ekosistem Digital Indonesia*
 
-### 🎓 Identitas Laporan
-(Isi dengan tabel identitas dan nama anggota kelompok)
+###  Identitas Laporan
+| Parameter | Deskripsi |
+| :--- | :--- |
+| *Mata Kuliah* | Etika Profesi - A |
+| *Klaster Analisis* | Platform, Ekonomi Gig, dan Transformasi Sosial |
+| *Kasus Utama* | Malapraktik Data Skala Global (Facebook–Cambridge Analytica) |
+| *Perspektif* | Etika Profesi, Yurisdiksi Hukum, dan Sosiologi Digital |
+| *Institusi* | Universitas Pancasila — Teknik Informatika |
+
+### Anggota Kelompok 11:
+* Muhammad Arya Alqadi (4524210058)
+* Muzakki Abrar (4524210071)
+* Muhammad Jibran Ferdian (4524210067)
+* Muhammad Arkan (4524210114)
+* Daffa Richadatul'Aisy (4524210136)
 
 ---
 
 ### BAB I: RINGKASAN EKSEKUTIF
 **1.1. Latar Belakang dan Urgensi Topik**
 
+Skandal Facebook–Cambridge Analytica (FB-CA) merupakan titik balik dalam sejarah teknologi informasi yang membuktikan bahwa integritas sistem tidak hanya diukur dari keamanan parameter teknis, tetapi juga dari ketahanan etika fungsionalnya. Kasus ini melibatkan penyalahgunaan profil psikometrik dari 87 juta individu untuk kepentingan rekayasa opini publik. Bagi kelompok kami, menganalisis kasus ini adalah upaya kritis untuk memahami bagaimana Big Data dapat bertransformasi menjadi senjata kognitif yang mengancam kedaulatan informasi.
+
 **1.2. Anatomi Krisis**
+
+Insiden ini tidak bermula dari peretasan sistem konvensional (hacking), melainkan dari eksploitasi fitur API (Application Programming Interface) yang bersifat legal secara prosedural namun cacat secara moral. Melalui aplikasi kuis kepribadian, data agregat dikumpulkan dan diproses untuk melakukan micro-targeting politik yang presisi, yang pada akhirnya merusak prinsip transparansi dalam proses demokrasi global.
 
 
 ---
@@ -17,15 +34,23 @@
 ### BAB II: ANALISIS ETIKA DAN TANGGUNG JAWAB PROFESI
 **2.1. Kegagalan Mekanisme Informed Consent**
 
+Dalam etika profesi IT, *Informed Consent* bukan sekadar formalitas administrasi, melainkan manifestasi dari penghormatan terhadap otonomi pengguna. Dalam kasus FB-CA, terjadi manipulasi melalui desain sistem yang mengaburkan luasnya cakupan pengambilan data. Fakta bahwa data "teman dari pengguna" ikut terserap tanpa interaksi langsung menunjukkan pelanggaran berat terhadap prinsip privasi pihak ketiga yang tidak berdaya dalam sistem tersebut.
+
 **2.2. Etika Sektor Data Broker dan Komodifikasi Identitas**
 
+Terdapat degradasi moral ketika identitas digital manusia direduksi menjadi komoditas finansial murni. Cambridge Analytica, sebagai entitas *Data Broker*, mengabaikan integritas data demi memenangkan kepentingan politik klien. Hal ini bertentangan dengan tanggung jawab profesional untuk memberikan manfaat bagi publik dan menghindari bahaya (*do no harm*).
+
 **2.3. Akuntabilitas Pengembang Platform**
+
+Facebook, sebagai penyedia infrastruktur, memiliki tanggung jawab *Privacy by Design*. Kelalaian dalam pengawasan terhadap pihak ketiga (*third-party monitoring*) merupakan bentuk pengabaian profesional (*professional negligence*) yang menempatkan pertumbuhan metrik di atas keamanan data subjek.
 
 
 ---
 
 ### BAB III: IMPLIKASI TERHADAP KEDAULATAN DEMOKRASI
 **3.1. Senjataisasi Algoritma melalui Micro-Targeting**
+
+Analisis kami menunjukkan bahwa penggunaan profil psikologis untuk menyusun narasi propaganda kognitif telah menciptakan gelembung informasi (*filter bubbles*). Ketika algoritma mampu mengeksploitasi bias dan ketakutan individu secara personal, hak masyarakat untuk mendapatkan informasi yang objektif dan rasional menjadi terdistorsi. Hal ini merupakan ancaman eksistensial terhadap integritas demokrasi yang sehat.
 
 
 ---
