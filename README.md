@@ -70,4 +70,6 @@ Insiden ini tidak bermula dari peretasan sistem konvensional (hacking), melainka
 ### BAB VI: KESIMPULAN DAN REKOMENDASI STRATEGIS
 **6.1. Kesimpulan**
 
+Skandal Facebook–Cambridge Analytica adalah bukti nyata bahwa kode dan algoritma bukan sekadar baris perintah teknis, melainkan instrumen kekuasaan sosial. Kegagalan dalam menjaga etika profesi IT berdampak langsung pada kerentanan sistem hukum dan stabilitas demokrasi.
+
 **6.2. Rekomendasi**
