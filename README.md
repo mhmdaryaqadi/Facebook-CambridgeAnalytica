@@ -22,7 +22,11 @@
 ### BAB I: RINGKASAN EKSEKUTIF
 **1.1. Latar Belakang dan Urgensi Topik**
 
+Skandal Facebook–Cambridge Analytica (FB-CA) merupakan titik balik dalam sejarah teknologi informasi yang membuktikan bahwa integritas sistem tidak hanya diukur dari keamanan parameter teknis, tetapi juga dari ketahanan etika fungsionalnya. Kasus ini melibatkan penyalahgunaan profil psikometrik dari 87 juta individu untuk kepentingan rekayasa opini publik. Bagi kelompok kami, menganalisis kasus ini adalah upaya kritis untuk memahami bagaimana Big Data dapat bertransformasi menjadi senjata kognitif yang mengancam kedaulatan informasi.
+
 **1.2. Anatomi Krisis**
+
+Insiden ini tidak bermula dari peretasan sistem konvensional (hacking), melainkan dari eksploitasi fitur API (Application Programming Interface) yang bersifat legal secara prosedural namun cacat secara moral. Melalui aplikasi kuis kepribadian, data agregat dikumpulkan dan diproses untuk melakukan micro-targeting politik yang presisi, yang pada akhirnya merusak prinsip transparansi dalam proses demokrasi global.
 
 
 ---
