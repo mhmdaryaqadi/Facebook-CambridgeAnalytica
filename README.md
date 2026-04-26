@@ -25,6 +25,8 @@ Terdapat degradasi moral ketika identitas digital manusia direduksi menjadi komo
 
 **2.3. Akuntabilitas Pengembang Platform**
 
+Facebook, sebagai penyedia infrastruktur, memiliki tanggung jawab *Privacy by Design*. Kelalaian dalam pengawasan terhadap pihak ketiga (*third-party monitoring*) merupakan bentuk pengabaian profesional (*professional negligence*) yang menempatkan pertumbuhan metrik di atas keamanan data subjek.
+
 
 ---
 
