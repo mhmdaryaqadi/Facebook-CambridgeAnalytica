@@ -41,6 +41,9 @@
 ---
 
 ### BAB V: ANALISIS KERENTANAN SOSIO-KULTURAL INDONESIA
+
+Efektivitas manipulasi algoritma global sangat bergantung pada karakteristik sosiologis targetnya. Di Indonesia, terdapat kerentanan spesifik yang perlu diwaspadai:
+
 **5.1. Paradigma Konsumerisme Digital Tanpa Literasi**
 
 **5.2. Erosi Batasan Privasi Digital**
