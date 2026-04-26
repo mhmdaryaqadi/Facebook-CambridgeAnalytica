@@ -40,6 +40,8 @@ Insiden FB-CA merupakan pelanggaran terhadap prinsip pemrosesan data yang terbat
 
 **4.2. UU Informasi dan Transaksi Elektronik (UU ITE)**
 
+Merujuk pada Pasal 26 UU ITE, setiap informasi melalui media elektronik yang menyangkut data pribadi harus dilakukan atas persetujuan pemilik data. Kasus ini membuktikan bahwa persetujuan yang didapat secara manipulatif dapat dianggap tidak sah secara hukum di Indonesia.
+
 **4.3. Paradoks Hak Kekayaan Intelektual (HKI)**
 
 
