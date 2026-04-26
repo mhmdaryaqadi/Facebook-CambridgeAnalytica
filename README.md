@@ -56,12 +56,20 @@ Analisis kami menunjukkan bahwa penggunaan profil psikologis untuk menyusun nara
 ---
 
 ### BAB IV: ANALISIS YURISDIKSI DAN KERANGKA HUKUM INDONESIA
+
+Dalam konteks hukum nasional, tindakan eksploitasi data semacam ini memiliki konsekuensi hukum yang tegas di bawah dua instrumen utama:
+
 **4.1. UU Pelindungan Data Pribadi (UU PDP No. 27 Tahun 2022)**
+
+Insiden FB-CA merupakan pelanggaran terhadap prinsip pemrosesan data yang terbatas dan spesifik. UU PDP Indonesia mewajibkan adanya dasar hukum pemrosesan yang transparan. Penggunaan data untuk tujuan politik yang tidak sesuai dengan tujuan awal pengumpulan data (kuis kepribadian) dapat berujung pada sanksi administratif dan pidana yang berat.
 
 **4.2. UU Informasi dan Transaksi Elektronik (UU ITE)**
 
+Merujuk pada Pasal 26 UU ITE, setiap informasi melalui media elektronik yang menyangkut data pribadi harus dilakukan atas persetujuan pemilik data. Kasus ini membuktikan bahwa persetujuan yang didapat secara manipulatif dapat dianggap tidak sah secara hukum di Indonesia.
+
 **4.3. Paradoks Hak Kekayaan Intelektual (HKI)**
 
+Terdapat konflik antara HKI dalam bentuk Rahasia Dagang atas algoritma pemrosesan data dengan hak asasi individu atas data pribadi. Sering kali, perusahaan berlindung di balik perlindungan HKI algoritma untuk menutupi praktik eksploitatif terhadap data publik, menciptakan asimetri kekuasaan antara korporasi teknologi dan masyarakat.
 
 ---
 
