@@ -152,3 +152,7 @@ Sebagai calon profesional informatika, kami merekomendasikan penerapan standar *
 3. Republik Indonesia. (2022). *Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi (UU PDP)*. Sekretariat Negara. Jakarta.
 4. Susser, D., Roessler, B., & Nissenbaum, H. (2019). *Technology, autonomy, and manipulation*. Internet Policy Review, 8(2).
 5. Wylie, C. (2019). *Mindf*ck: Cambridge Analytica and the Plot to Break America*. Random House.
+
+---
+
+Link Canva: https://canva.link/4ih62vjv6i866rm
