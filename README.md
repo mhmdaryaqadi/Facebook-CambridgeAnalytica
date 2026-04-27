@@ -41,6 +41,15 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 Skandal Facebook–Cambridge Analytica (FB-CA) merupakan titik balik dalam sejarah teknologi informasi yang membuktikan bahwa integritas sistem tidak hanya diukur dari keamanan parameter teknis, tetapi juga dari ketahanan etika fungsionalnya. Kasus ini melibatkan penyalahgunaan profil psikometrik dari 87 juta individu untuk kepentingan rekayasa opini publik. Bagi kelompok kami, menganalisis kasus ini adalah upaya kritis untuk memahami bagaimana *Big Data* dapat bertransformasi menjadi senjata kognitif yang mengancam kedaulatan informasi.
 
+**Tabel 1.1: Kronologi Singkat Skandal Facebook–Cambridge Analytica**
+
+| Tahun | Peristiwa Kunci |
+| :---: | :--- |
+| **2013-2014** | Aleksandr Kogan merilis kuis *"This Is Your Digital Life"*. Sekitar 270.000 orang mengunduh, tapi API Facebook mengizinkan aplikasi menyedot data teman-teman mereka (total 87 juta data). |
+| **2015** | Facebook mengetahui pelanggaran ini dan meminta Cambridge Analytica menghapus data tersebut, namun tidak ada verifikasi ketat. |
+| **2016** | Cambridge Analytica menggunakan data tersebut untuk kampanye *micro-targeting* pada Pemilu AS dan Brexit. |
+| **2018** | *Whistleblower* Christopher Wylie membongkar skandal ini ke publik. Saham Facebook anjlok dan Mark Zuckerberg dipanggil oleh Kongres AS. |
+
 **1.2. Anatomi Krisis**
 
 Insiden ini tidak bermula dari peretasan sistem konvensional (*hacking*), melainkan dari eksploitasi fitur API (*Application Programming Interface*) yang bersifat legal secara prosedural namun cacat secara moral. Melalui aplikasi kuis kepribadian, data agregat dikumpulkan dan diproses untuk melakukan *micro-targeting* politik yang presisi, yang pada akhirnya merusak prinsip transparansi dalam proses demokrasi global.
@@ -52,6 +61,13 @@ Insiden ini tidak bermula dari peretasan sistem konvensional (*hacking*), melain
 **2.1. Kegagalan Mekanisme Informed Consent**
 
 Dalam etika profesi IT, *Informed Consent* bukan sekadar formalitas administrasi, melainkan manifestasi dari penghormatan terhadap otonomi pengguna. Dalam kasus FB-CA, terjadi manipulasi melalui desain sistem yang mengaburkan luasnya cakupan pengambilan data. Fakta bahwa data "teman dari pengguna" ikut terserap tanpa interaksi langsung menunjukkan pelanggaran berat terhadap prinsip privasi pihak ketiga yang tidak berdaya dalam sistem tersebut.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fc0010c4-75db-4e91-a06c-362552cdfb36" width="500" alt="Alur Cambridge Analytica">
+  <br>
+  <i>Gambar 2.1: Alur Eksploitasi Celah API Facebook dan Senjataisasi Data</i>
+</div>
+
 
 **2.2. Etika Sektor Data Broker dan Komodifikasi Identitas**
 
@@ -68,6 +84,16 @@ Facebook, sebagai penyedia infrastruktur, memiliki tanggung jawab *Privacy by De
 **3.1. Senjataisasi Algoritma melalui Micro-Targeting**
 
 Analisis kami menunjukkan bahwa penggunaan profil psikologis untuk menyusun narasi propaganda kognitif telah menciptakan gelembung informasi (*filter bubbles*). Ketika algoritma mampu mengeksploitasi bias dan ketakutan individu secara personal, hak masyarakat untuk mendapatkan informasi yang objektif dan rasional menjadi terdistorsi. Hal ini merupakan ancaman eksistensial terhadap integritas demokrasi yang sehat.
+
+**Tabel 3.1: Perbandingan Kampanye Tradisional vs Kampanye Algoritmik (Micro-Targeting)**
+
+| Aspek | Kampanye Tradisional | Kampanye Algoritmik (Micro-Targeting) |
+| :--- | :--- | :--- |
+| **Target Audiens** | Demografi umum (umur, lokasi, gender) | Profil psikologis individu (OCEAN model) |
+| **Pesan / Narasi** | Seragam untuk semua orang | Dikustomisasi berdasarkan ketakutan/bias individu |
+| **Media Distribusi** | Baliho, TV, Radio, Spanduk | *Feed* media sosial, Iklan *pop-up* personal |
+| **Tingkat Manipulasi** | Rendah (informasi terbuka) | Sangat Tinggi (komputasi propaganda rahasia) |
+| **Transparansi** | Terlihat oleh publik dan lawan politik | *Dark ads* (hanya dilihat oleh target spesifik) |
 
 ---
 
@@ -113,6 +139,16 @@ Dalam sosiologi digital Indonesia, fenomena "kebenaran berdasarkan kuantitas" me
 
 Skandal Facebook–Cambridge Analytica adalah bukti nyata bahwa kode dan algoritma bukan sekadar baris perintah teknis, melainkan instrumen kekuasaan sosial. Kegagalan dalam menjaga etika profesi IT berdampak langsung pada kerentanan sistem hukum dan stabilitas demokrasi.
 
-**6.2. Rekomendasi**
+**6.2. Saran**
 
 Sebagai calon profesional informatika, kami merekomendasikan penerapan standar *Privacy by Design* yang ketat, penguatan regulasi melalui UU PDP secara konsisten, serta peningkatan literasi digital kritis di masyarakat untuk memitigasi risiko manipulasi kognitif berbasis data di masa depan.
+
+---
+
+### DAFTAR PUSTAKA
+
+1. Cadwalladr, C., & Graham-Harrison, E. (2018). *Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach*. The Guardian.
+2. Republik Indonesia. (2008). *Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (UU ITE)*. Sekretariat Negara. Jakarta.
+3. Republik Indonesia. (2022). *Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi (UU PDP)*. Sekretariat Negara. Jakarta.
+4. Susser, D., Roessler, B., & Nissenbaum, H. (2019). *Technology, autonomy, and manipulation*. Internet Policy Review, 8(2).
+5. Wylie, C. (2019). *Mindf*ck: Cambridge Analytica and the Plot to Break America*. Random House.
