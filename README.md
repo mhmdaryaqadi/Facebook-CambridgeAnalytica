@@ -59,4 +59,6 @@ Facebook, sebagai penyedia infrastruktur, memiliki tanggung jawab *Privacy by De
 ### BAB VI: KESIMPULAN DAN REKOMENDASI STRATEGIS
 **6.1. Kesimpulan**
 
-**6.2. Rekomendasi**
+**6.2. Saran**
+
+Sebagai calon profesional informatika, kami merekomendasikan penerapan standar Privacy by Design secara konkret pada level arsitektur perangkat lunak. Hal ini meliputi implementasi prinsip Data Minimization (skema basis data hanya menyimpan informasi yang mutlak relevan dengan transaksi pengguna) dan Scope Restriction pada otentikasi pihak ketiga (misalnya membatasi akses OAuth hanya pada email dan profil dasar). Selain perbaikan di level engineering, diperlukan juga penguatan regulasi melalui UU PDP secara konsisten, serta peningkatan literasi digital kritis di masyarakat untuk memitigasi risiko manipulasi kognitif berbasis data di masa depan 
