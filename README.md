@@ -41,18 +41,9 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 Skandal Facebook–Cambridge Analytica (FB-CA) merupakan titik balik dalam sejarah teknologi informasi yang membuktikan bahwa integritas sistem tidak hanya diukur dari keamanan parameter teknis, tetapi juga dari ketahanan etika fungsionalnya. Kasus ini melibatkan penyalahgunaan profil psikometrik dari 87 juta individu untuk kepentingan rekayasa opini publik. Bagi kelompok kami, menganalisis kasus ini adalah upaya kritis untuk memahami bagaimana *Big Data* dapat bertransformasi menjadi senjata kognitif yang mengancam kedaulatan informasi.
 
-**Tabel 1.1: Kronologi Singkat Skandal Facebook–Cambridge Analytica**
-
-| Tahun | Peristiwa Kunci |
-| :---: | :--- |
-| **2013-2014** | Aleksandr Kogan merilis kuis *"This Is Your Digital Life"*. Sekitar 270.000 orang mengunduh, tapi API Facebook mengizinkan aplikasi menyedot data teman-teman mereka (total 87 juta data). |
-| **2015** | Facebook mengetahui pelanggaran ini dan meminta Cambridge Analytica menghapus data tersebut, namun tidak ada verifikasi ketat. |
-| **2016** | Cambridge Analytica menggunakan data tersebut untuk kampanye *micro-targeting* pada Pemilu AS dan Brexit. |
-| **2018** | *Whistleblower* Christopher Wylie membongkar skandal ini ke publik. Saham Facebook anjlok dan Mark Zuckerberg dipanggil oleh Kongres AS. |
-
 **1.2. Anatomi Krisis**
 
-Insiden ini tidak bermula dari peretasan sistem konvensional (*hacking*), melainkan dari eksploitasi fitur API (*Application Programming Interface*) yang bersifat legal secara prosedural namun cacat secara moral. Melalui aplikasi kuis kepribadian, data agregat dikumpulkan dan diproses untuk melakukan *micro-targeting* politik yang presisi, yang pada akhirnya merusak prinsip transparansi dalam proses demokrasi global.
+Insiden ini tidak bermula dari peretasan sistem konvensional (hacking), melainkan dari eksploitasi fitur Facebook Graph API versi 1.0, secara spesifik pada endpoint permission user_friends. Fitur ini mengizinkan aplikasi pihak ketiga untuk menyedot data dari jaringan pertemanan pengguna utama, meskipun teman-teman tersebut tidak pernah memberikan izin langsung. Secara prosedural hal ini legal pada masa itu, namun sangat cacat secara moral. Melalui celah API inilah data agregat dikumpulkan dan diproses untuk melakukan micro-targeting politik yang sangat presisi, yang pada akhirnya merusak prinsip transparansi dalam proses demokrasi global.
 
 ---
 
@@ -103,7 +94,7 @@ Dalam konteks hukum nasional, tindakan eksploitasi data semacam ini memiliki kon
 
 **4.1. UU Pelindungan Data Pribadi (UU PDP No. 27 Tahun 2022)**
 
-Insiden FB-CA merupakan pelanggaran terhadap prinsip pemrosesan data yang terbatas dan spesifik. UU PDP Indonesia mewajibkan adanya dasar hukum pemrosesan yang transparan. Penggunaan data untuk tujuan politik yang tidak sesuai dengan tujuan awal pengumpulan data (kuis kepribadian) dapat berujung pada sanksi administratif dan pidana yang berat.
+Meskipun pada saat kasus ini meledak di tahun 2018 UU PDP belum disahkan (hukum tidak berlaku surut), undang-undang ini sangat krusial digunakan sebagai kerangka evaluasi masa depan. Jika dievaluasi dengan kacamata UU PDP saat ini, insiden FB-CA merupakan pelanggaran absolut terhadap prinsip pemrosesan data yang terbatas dan spesifik. UU PDP Indonesia mewajibkan adanya dasar hukum pemrosesan yang transparan. Penggunaan data untuk tujuan politik yang tidak sesuai dengan tujuan awal pengumpulan data (kuis kepribadian) kini dapat berujung pada sanksi administratif dan pidana yang berat bagi data broker maupun platform.
 
 **4.2. UU Informasi dan Transaksi Elektronik (UU ITE)**
 
@@ -141,7 +132,8 @@ Skandal Facebook–Cambridge Analytica adalah bukti nyata bahwa kode dan algorit
 
 **6.2. Saran**
 
-Sebagai calon profesional informatika, kami merekomendasikan penerapan standar *Privacy by Design* yang ketat, penguatan regulasi melalui UU PDP secara konsisten, serta peningkatan literasi digital kritis di masyarakat untuk memitigasi risiko manipulasi kognitif berbasis data di masa depan.
+Sebagai calon profesional informatika, kami merekomendasikan penerapan standar Privacy by Design secara konkret pada level arsitektur perangkat lunak. Hal ini meliputi implementasi prinsip Data Minimization (skema basis data hanya menyimpan informasi yang mutlak relevan dengan transaksi pengguna) dan Scope Restriction pada otentikasi pihak ketiga (misalnya membatasi akses OAuth hanya pada email dan profil dasar). Selain perbaikan di level engineering, diperlukan juga penguatan regulasi melalui UU PDP secara konsisten, serta peningkatan literasi digital kritis di masyarakat untuk memitigasi risiko manipulasi kognitif berbasis data di masa depan .
+Skandal Facebook–Cambridge Analytica adalah bukti nyata bahwa kode dan algoritma bukan sekadar baris perintah teknis, melainkan instrumen kekuasaan sosial. Kegagalan dalam menjaga etika profesi IT berdampak langsung pada kerentanan sistem hukum dan stabilitas demokrasi.
 
 ---
 
@@ -151,4 +143,8 @@ Sebagai calon profesional informatika, kami merekomendasikan penerapan standar *
 2. Republik Indonesia. (2008). *Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (UU ITE)*. Sekretariat Negara. Jakarta.
 3. Republik Indonesia. (2022). *Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi (UU PDP)*. Sekretariat Negara. Jakarta.
 4. Susser, D., Roessler, B., & Nissenbaum, H. (2019). *Technology, autonomy, and manipulation*. Internet Policy Review, 8(2).
-5. Wylie, C. (2019). *Mindf*ck: Cambridge Analytica and the Plot to Break America*. Random House.
+5. Wylie, C. (2019). *Mindfck: Cambridge Analytica and the Plot to Break America*. Random House.
+
+---
+
+Link Canva: https://canva.link/r5d0goddm53rmre
