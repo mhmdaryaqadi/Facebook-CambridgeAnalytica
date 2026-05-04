@@ -26,8 +26,7 @@ Skandal Facebook–Cambridge Analytica (FB-CA) merupakan titik balik dalam sejar
 
 **1.2. Anatomi Krisis**
 
-Insiden ini tidak bermula dari peretasan sistem konvensional (hacking), melainkan dari eksploitasi fitur API (Application Programming Interface) yang bersifat legal secara prosedural namun cacat secara moral. Melalui aplikasi kuis kepribadian, data agregat dikumpulkan dan diproses untuk melakukan micro-targeting politik yang presisi, yang pada akhirnya merusak prinsip transparansi dalam proses demokrasi global.
-
+Insiden ini tidak bermula dari peretasan sistem konvensional (hacking), melainkan dari eksploitasi fitur Facebook Graph API versi 1.0, secara spesifik pada endpoint permission user_friends. Fitur ini mengizinkan aplikasi pihak ketiga untuk menyedot data dari jaringan pertemanan pengguna utama, meskipun teman-teman tersebut tidak pernah memberikan izin langsung. Secara prosedural hal ini legal pada masa itu, namun sangat cacat secara moral. Melalui celah API inilah data agregat dikumpulkan dan diproses untuk melakukan micro-targeting politik yang presisi, yang pada akhirnya merusak prinsip transparansi dalam proses demokrasi global
 
 ---
 
