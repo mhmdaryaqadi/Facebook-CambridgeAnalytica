@@ -137,7 +137,7 @@ Dalam sosiologi digital Indonesia, fenomena "kebenaran berdasarkan kuantitas" me
 
 **6.1. Kesimpulan**
 
-Skandal Facebook–Cambridge Analytica adalah bukti nyata bahwa kode dan algoritma bukan sekadar baris perintah teknis, melainkan instrumen kekuasaan sosial. Kegagalan dalam menjaga etika profesi IT berdampak langsung pada kerentanan sistem hukum dan stabilitas demokrasi.
+Skandal Facebook–Cambridge Analytica adalah bukti nyata bahwa kode dan algoritma bukan sekadar baris perintah teknis, melainkan instrumen kekuasaan sosial. Kegagalan dalam menjaga etika profesi IT berdampak langsung pada kerentanan sistem hukum dan stabilitas demokrasi. 
 
 **6.2. Saran**
 
