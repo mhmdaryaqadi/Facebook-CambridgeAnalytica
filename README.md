@@ -41,18 +41,9 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 Skandal Facebook–Cambridge Analytica (FB-CA) merupakan titik balik dalam sejarah teknologi informasi yang membuktikan bahwa integritas sistem tidak hanya diukur dari keamanan parameter teknis, tetapi juga dari ketahanan etika fungsionalnya. Kasus ini melibatkan penyalahgunaan profil psikometrik dari 87 juta individu untuk kepentingan rekayasa opini publik. Bagi kelompok kami, menganalisis kasus ini adalah upaya kritis untuk memahami bagaimana *Big Data* dapat bertransformasi menjadi senjata kognitif yang mengancam kedaulatan informasi.
 
-**Tabel 1.1: Kronologi Singkat Skandal Facebook–Cambridge Analytica**
-
-| Tahun | Peristiwa Kunci |
-| :---: | :--- |
-| **2013-2014** | Aleksandr Kogan merilis kuis *"This Is Your Digital Life"*. Sekitar 270.000 orang mengunduh, tapi API Facebook mengizinkan aplikasi menyedot data teman-teman mereka (total 87 juta data). |
-| **2015** | Facebook mengetahui pelanggaran ini dan meminta Cambridge Analytica menghapus data tersebut, namun tidak ada verifikasi ketat. |
-| **2016** | Cambridge Analytica menggunakan data tersebut untuk kampanye *micro-targeting* pada Pemilu AS dan Brexit. |
-| **2018** | *Whistleblower* Christopher Wylie membongkar skandal ini ke publik. Saham Facebook anjlok dan Mark Zuckerberg dipanggil oleh Kongres AS. |
-
 **1.2. Anatomi Krisis**
 
-Insiden ini tidak bermula dari peretasan sistem konvensional (*hacking*), melainkan dari eksploitasi fitur API (*Application Programming Interface*) yang bersifat legal secara prosedural namun cacat secara moral. Melalui aplikasi kuis kepribadian, data agregat dikumpulkan dan diproses untuk melakukan *micro-targeting* politik yang presisi, yang pada akhirnya merusak prinsip transparansi dalam proses demokrasi global.
+Insiden ini tidak bermula dari peretasan sistem konvensional (hacking), melainkan dari eksploitasi fitur Facebook Graph API versi 1.0, secara spesifik pada endpoint permission user_friends. Fitur ini mengizinkan aplikasi pihak ketiga untuk menyedot data dari jaringan pertemanan pengguna utama, meskipun teman-teman tersebut tidak pernah memberikan izin langsung. Secara prosedural hal ini legal pada masa itu, namun sangat cacat secara moral. Melalui celah API inilah data agregat dikumpulkan dan diproses untuk melakukan micro-targeting politik yang sangat presisi, yang pada akhirnya merusak prinsip transparansi dalam proses demokrasi global.
 
 ---
 
