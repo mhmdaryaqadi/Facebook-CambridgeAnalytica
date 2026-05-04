@@ -128,11 +128,10 @@ Dalam sosiologi digital Indonesia, fenomena "kebenaran berdasarkan kuantitas" me
 
 **6.1. Kesimpulan**
 
-Skandal Facebook–Cambridge Analytica adalah bukti nyata bahwa kode dan algoritma bukan sekadar baris perintah teknis, melainkan instrumen kekuasaan sosial. Kegagalan dalam menjaga etika profesi IT berdampak langsung pada kerentanan sistem hukum dan stabilitas demokrasi.
-
 **6.2. Saran**
 
-Sebagai calon profesional informatika, kami merekomendasikan penerapan standar *Privacy by Design* yang ketat, penguatan regulasi melalui UU PDP secara konsisten, serta peningkatan literasi digital kritis di masyarakat untuk memitigasi risiko manipulasi kognitif berbasis data di masa depan.
+Sebagai calon profesional informatika, kami merekomendasikan penerapan standar Privacy by Design secara konkret pada level arsitektur perangkat lunak. Hal ini meliputi implementasi prinsip Data Minimization (skema basis data hanya menyimpan informasi yang mutlak relevan dengan transaksi pengguna) dan Scope Restriction pada otentikasi pihak ketiga (misalnya membatasi akses OAuth hanya pada email dan profil dasar). Selain perbaikan di level engineering, diperlukan juga penguatan regulasi melalui UU PDP secara konsisten, serta peningkatan literasi digital kritis di masyarakat untuk memitigasi risiko manipulasi kognitif berbasis data di masa depan .
+Skandal Facebook–Cambridge Analytica adalah bukti nyata bahwa kode dan algoritma bukan sekadar baris perintah teknis, melainkan instrumen kekuasaan sosial. Kegagalan dalam menjaga etika profesi IT berdampak langsung pada kerentanan sistem hukum dan stabilitas demokrasi.
 
 ---
 
