@@ -148,3 +148,5 @@ Skandal Facebook–Cambridge Analytica adalah bukti nyata bahwa kode dan algorit
 ---
 
 Link Canva: https://canva.link/r5d0goddm53rmre
+
+Link Presentasi Youtube: https://youtu.be/r8Ivw4iMcFk
