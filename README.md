@@ -1,58 +1,90 @@
-# Laporan Analisis Strategis: Krisis Integritas Data Global
-**Studi Kasus: Eksploitasi Algoritma Facebook–Cambridge Analytica dan Implikasinya terhadap Ekosistem Digital Indonesia**
+<div align="center">
 
-### 🎓 Identitas Laporan
-(Isi dengan tabel identitas dan nama anggota kelompok)
+# LAPORAN INVESTIGASI PROJECT-BASED LEARNING (PBL)
+## MATA KULIAH: ETIKA PROFESI 
 
----
+<br>
 
-### BAB I: RINGKASAN EKSEKUTIF
-**1.1. Latar Belakang dan Urgensi Topik**
+### ANALISIS ETIKA DAN DAMPAK SOSIAL PELANGGARAN PRIVASI GLOBAL 
+## "STUDI KASUS FACEBOOK–CAMBRIDGE ANALYTICA"
 
-**1.2. Anatomi Krisis**
+<br>
 
+<img width="470" height="351" alt="image" src="https://github.com/user-attachments/assets/071a26bb-b0e8-410e-868b-fce1184ecc7d" />
 
----
+<br>
 
-### BAB II: ANALISIS ETIKA DAN TANGGUNG JAWAB PROFESI
-**2.1. Kegagalan Mekanisme Informed Consent**
+### Disusun Oleh Kelompok 11:
 
-**2.2. Etika Sektor Data Broker dan Komodifikasi Identitas**
+| Nama Anggota | NPM |
+| :--- | :--- |
+| Muhammad Arya Alqadi | 4524210058 |
+| Muzakki Abrar | 4524210071 |
+| Muhammad Jibran Ferdian | 4524210067 |
+| Muhammad Arkan | 4524210114 |
+| Daffa Richadatul'Aisy | 4524210136 |
 
-**2.3. Akuntabilitas Pengembang Platform**
+<br>
 
+**Dosen Pengampu:**  
+Adi Wahyu Pribadi, S.Si., M.Kom
 
----
+<br>
 
-### BAB III: IMPLIKASI TERHADAP KEDAULATAN DEMOKRASI
-**3.1. Senjataisasi Algoritma melalui Micro-Targeting**
+## PROGRAM STUDI TEKNIK INFORMATIKA
+## FAKULTAS TEKNIK UNIVERSITAS PANCASILA
+## 2026
 
-Analisis kami menunjukkan bahwa penggunaan profil psikologis untuk menyusun narasi propaganda kognitif telah menciptakan gelembung informasi (*filter bubbles*). Ketika algoritma mampu mengeksploitasi bias dan ketakutan individu secara personal, hak masyarakat untuk mendapatkan informasi yang objektif dan rasional menjadi terdistorsi. Hal ini merupakan ancaman eksistensial terhadap integritas demokrasi yang sehat.
-
-
----
-
-### BAB IV: ANALISIS YURISDIKSI DAN KERANGKA HUKUM INDONESIA
-**4.1. UU Pelindungan Data Pribadi (UU PDP No. 27 Tahun 2022)**
-
-**4.2. UU Informasi dan Transaksi Elektronik (UU ITE)**
-
-**4.3. Paradoks Hak Kekayaan Intelektual (HKI)**
-
+</div>
 
 ---
 
-### BAB V: ANALISIS KERENTANAN SOSIO-KULTURAL INDONESIA
-**5.1. Paradigma Konsumerisme Digital Tanpa Literasi**
+##  HEADER PEMETAAN SUB-CPMK
 
-**5.2. Erosi Batasan Privasi Digital**
+*   **Nomor Kelompok:** Kelompok 11
+*   **Kasus Investigasi:** Eksploitasi Data Pengguna pada Kasus Facebook-Cambridge Analytica (Klaster D - Platform, Gig Economy & Dampak Sosial)
+*   **Daftar Capaian Pembelajaran:** Sub-CPMK 1, Sub-CPMK 2, Sub-CPMK 3, Sub-CPMK 4, Sub-CPMK 5, Sub-CPMK 7, Sub-CPMK 8, dan Sub-CPMK 9
+*   **Tautan Video Dokumentasi YouTube (Unlisted):** [Tautan video menyusul setelah proses rekaman selesai]
 
-**5.3. Dinamika Psikologi Massa (Herd Mentality)**
-
+### Distribusi Peran dan Tanggung Jawab Segmen Laporan:
+1.  **Muhammad Arya Alqadi (4524210058) - Ketua Kelompok:** Penanggung Jawab Integrasi Sistem, Penulisan Langkah 1 (Kronologi & Konteks Teknis), Langkah 7 (Analisis Regulasi & Hukum), dan Langkah 8 (Checkpoint Integritas & Anti-Korupsi).
+2.  **Muzakki Abrar (4524210071):** Penulisan Langkah 2 (Fakta Kunci & Catatan Transparansi), Langkah 3 (Pemetaan Pemangku Kepentingan), dan Langkah 4 (Analisis Empat Teori Etika).
+3.  **Muhammad Jibran Ferdian (4524210067):** Penulisan Langkah 5 (Lensa Kelima Pancasila) dan Langkah 6 (Kode Etik Profesi).
+4.  **Muhammad Arkan (4524210114):** Penulisan Langkah 9 (Manajemen Risiko & Opsi 4T ISO 31000).
+5.  **Daffa Richadatul'Aisy (4524210136):** Penulisan Langkah 10 (Rancangan Dampak & Kontrol Preventif) dan Langkah 11 (Pelajaran Utama & Daftar Pustaka).
 
 ---
 
-### BAB VI: KESIMPULAN DAN REKOMENDASI STRATEGIS
-**6.1. Kesimpulan**
+## ANALISIS INVESTIGASI 
 
-**6.2. Rekomendasi**
+### 1. Kronologi & Konteks Teknis 
+
+
+### 2. Fakta Kunci & Catatan Transparansi 
+
+
+### 3. Pemetaan Pemangku Kepentingan & Relasi Kuasa 
+
+
+### 4. Analisis Berdasarkan Empat Teori Etika Moral 
+
+
+### 5. Lensa Kelima Pancasila & Nilai Luhur UP 
+
+
+### 6. Kepatuhan Kode Etik Profesi Internasional 
+
+
+### 7. Analisis Regulasi Yuridis & Yurisdiksi Hukum 
+
+
+### 8. Checkpoint Integritas & Pencegahan Penyalahgunaan Kewenangan 
+
+
+### 9. Manajemen Risiko Teknologi Berbasis Kerangka ISO 31000 
+
+
+### 10. Rancangan Dampak Sosial & Kontrol Preventif Rekayasa Perangkat Lunak 
+
+
+### 11. Pelajaran Utama & Rujukan Pustaka 
