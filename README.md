@@ -58,7 +58,10 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 ## ANALISIS INVESTIGASI 
 
 ### 1. Kronologi & Konteks Teknis 
+#### 1.1. Konteks Arsitektur Teknis Platform
+Insiden pelanggaran privasi global ini tidak diinisiasi oleh penetrasi paksa atau peretasan konvensional (*hacking*) terhadap perimeter keamanan server Facebook. Krisis ini berakar pada eksploitasi celah struktural fungsional yang terdapat pada arsitektur rekayasa perangkat lunak Facebook Graph API versi 1.0, khususnya pada *endpoint permission* `user_friends`. 
 
+Secara arsitektural, Protokol OAuth dan Graph API pada periode tersebut didesain untuk memaksimalkan interkoneksi ekosistem aplikasi pihak ketiga (*third-party developers*). Ketika seorang pengguna memberikan otorisasi akses kepada suatu aplikasi, *endpoint* `user_friends` secara otomatis membuka gerbang akses data agregat yang mencakup profil, preferensi, dan jaringan pertemanan dari pengguna utama tersebut. Implikasinya, seluruh individu yang berada dalam relasi pertemanan pengguna utama ikut terekstraksi datanya, meskipun subjek data pihak ketiga tersebut tidak pernah berinteraksi, memberikan izin, atau mengonfirmasi persetujuan (*informed consent*) secara langsung terhadap aplikasi bersangkutan.
 
 ### 2. Fakta Kunci & Catatan Transparansi 
 
