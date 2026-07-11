@@ -74,6 +74,17 @@ Untuk menjaga integritas laporan ilmiah, komponen berikut diklasifikasikan sebag
 *   **Keterlibatan Manajemen Eksekutif Tertinggi:** Status pengetahuan Mark Zuckerberg secara personal pada menit-menit awal kebocoran arsitektur Graph API di tahun 2014 sempat menjadi subjek sengketa informasi antara tim hukum internal platform dengan otoritas investigator hukum kongres sebelum akhirnya regulasi membuktikan adanya kelalaian sistemik korporasi.
 
 ### 3. Pemetaan Pemangku Kepentingan & Relasi Kuasa 
+Analisis pemangku kepentingan (*stakeholders*) dalam skandal Facebook-Cambridge Analytica dibagi menjadi empat entitas utama yang terikat dalam struktur asimetri kekuasaan dan informasi:
+
+#### 3.1. Penyedia Platform (Facebook Inc. / Meta)
+*   **Peran dan Kedudukan:** Bertindak sebagai penyedia infrastruktur digital, pemilik data arsitektural Graph API, sekaligus pembuat kebijakan tata kelola ekosistem pengembang (*developer ecosystem*).
+*   **Otoritas Pengambilan Keputusan:** Memiliki kontrol mutlak atas penentuan batasan hak akses data (*permission scopes*), mekanisme pengawasan pihak ketiga (*third-party monitoring*), dan tindakan mitigasi ketika pelanggaran terdeteksi.
+*   **Motivasi/Kepentingan:** Maksimalisasi metrik pertumbuhan pengguna, durasi keterikatan platform (*user engagement*), dan peningkatan pendapatan kapitalisasi pasar melalui ekosistem periklanan digital.
+
+#### 3.2. Penyedia Aplikasi & Data Broker (Global Science Research & Cambridge Analytica)
+*   **Peran dan Kedudukan:** Entitas riset akademik dan konsultan politik yang mengeksploitasi keterbukaan fungsional Graph API untuk memanen basis data berskala besar (*data harvesting*).
+*   **Otoritas Pengambilan Keputusan:** Mengambil keputusan secara sadar untuk memproses data psikometrik pengguna di luar tujuan awal pengumpulan data (kuis kepribadian akademik) dan mentransaksikannya demi keuntungan komersial-politik.
+*   **Motivasi/Kepentingan:** Monetisasi data identitas digital dan pembuktian efektivitas algoritma pemetaan psikologis model OCEAN dalam kampanye rekayasa opini publik politik.
 
 
 ### 4. Analisis Berdasarkan Empat Teori Etika Moral 
