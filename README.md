@@ -86,6 +86,18 @@ Analisis pemangku kepentingan (*stakeholders*) dalam skandal Facebook-Cambridge 
 *   **Otoritas Pengambilan Keputusan:** Mengambil keputusan secara sadar untuk memproses data psikometrik pengguna di luar tujuan awal pengumpulan data (kuis kepribadian akademik) dan mentransaksikannya demi keuntungan komersial-politik.
 *   **Motivasi/Kepentingan:** Monetisasi data identitas digital dan pembuktian efektivitas algoritma pemetaan psikologis model OCEAN dalam kampanye rekayasa opini publik politik.
 
+#### 3.3. Subjek Data / Pihak Terdampak (Pengguna Facebook & Jaringan Pertemanannya)
+*   **Peran dan Kedudukan:** Pengguna layanan digital (*end-users*) yang datanya diekstraksi. Terdiri dari pengguna langsung aplikasi kuis serta "teman" dari pengguna tersebut yang datanya ikut tersedot secara pasif tanpa interaksi aktif.
+*   **Otoritas Pengambilan Keputusan:** Tidak memiliki daya tawar (*bargaining power*) atau pilihan kontrol fungsional atas data mereka karena dikaburkan oleh desain antarmuka platform (*dark patterns*) dan ketiadaan transparansi izin operasional API.
+*   **Motivasi/Kepentingan:** Memanfaatkan utilitas interaksi sosial gratis pada platform media sosial tanpa ekspektasi bahwa identitas digital mereka akan dipersenjatai untuk kepentingan manipulasi politik.
+
+#### 3.4. Institusi Demokrasi & Masyarakat Sipil Global
+*   **Peran dan Kedudukan:** Lingkungan sosial-politik eksternal yang stabilitas dan kedaulatannya bergantung pada kejujuran peredaran informasi.
+*   **Otoritas Pengambilan Keputusan:** Lembaga pengawas pemilu dan pemilih umum yang hak otonomi suaranya terdistorsi oleh paparan iklan terselubung (*dark ads*).
+*   **Motivasi/Kepentingan:** Menjaga integritas proses demokrasi, transparansi kompetisi politik, dan pelindungan hak asasi warga negara atas informasi yang objektif.
+
+#### 3.5. Analisis Asimetri Relasi Kuasa
+Investigasi kelompok kami menunjukkan adanya ketimpangan kuasa (*power asymmetry*) yang masif. Korporasi teknologi raksasa (Facebook) dan agensi mahadata (Cambridge Analytica) memegang kendali penuh atas asimetri informasi, di mana mereka mengetahui secara presisi kerentanan psikologis subjek data melalui komputasi tingkat tinggi. Sebaliknya, 87 juta subjek data berada dalam kondisi ketidaktahuan total (*total ignorance*), tidak mampu memverifikasi ke mana data mereka dialirkan, dan hak otonomi mereka sebagai manusia direduksi menjadi komoditas finansial murni. Ketimpangan relasi kuasa inilah yang menjadi celah utama runtuhnya ketahanan etika fungsional teknologi.
 
 ### 4. Analisis Berdasarkan Empat Teori Etika Moral 
 
