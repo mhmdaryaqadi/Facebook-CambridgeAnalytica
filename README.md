@@ -70,7 +70,19 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 
 ### 5. Lensa Kelima Pancasila & Nilai Luhur UP 
+Analisis komprehensif terhadap skandal pemanenan data Facebook-Cambridge Analytica dievaluasi melalui dasar filosofis negara (Sila 1–5) serta lima Nilai Kepancasilaan Universitas Pancasila (UP):
+*   *Sila Pertama - Ketuhanan Yang Maha Esa:* Eksploitasi identitas digital demi profit dan kekuasaan politik mencerminkan pengabaian terhadap eksistensi moralitas ketuhanan yang mewajibkan setiap manusia memperlakukan sesamanya dengan kejujuran mutlak. Penipuan sistemik dan manipulasi psikologis terselubung merupakan bentuk pengingkaran terhadap nilai-nilai spiritual dan nurani luhur kemanusiaan.
+*   *Sila Kedua - Kemanusiaan yang Adil dan Beradab:* Komodifikasi identitas digital manusia menjadi komoditas finansial murni oleh data broker merupakan bentuk degradasi terhadap harkat dan martabat manusia. Tindakan memperlakukan 87 juta subjek data sebagai instrumen manipulasi kognitif tanpa adab perlindungan privasi merupakan pelanggaran berat terhadap hak asasi kemanusiaan.
+*   *Sila Ketiga - Persatuan Indonesia:* Senjataisasi algoritma melalui taktik political micro-targeting dirancang khusus untuk mengeksploitasi bias psikologis dan ketakutan individu. Hal ini memicu radikalisasi opini, penyebaran berita bohong secara masif, dan pengkutuban sosial yang secara langsung mengancam kohesi serta persatuan nasional dalam masyarakat demokratis.
+*   *Sila Keempat - Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan:* Skandal ini merusak pilar otonomi informasi yang krusial bagi demokrasi yang sehat. Ketika hak masyarakat untuk mendapatkan informasi yang objektif didistorsi oleh propaganda terselubung (dark ads), maka asas kedaulatan rakyat dan pengambilan keputusan yang bijaksana dalam proses politik telah dicederai secara sistemik.
+*   *Sila Kelima - Keadilan Sosial bagi Seluruh Rakyat Indonesia:* Terjadi ketimpangan keadilan (asymmetry) yang masif di mana korporasi teknologi raksasa memonopoli kontrol atas mahadata masyarakat demi keuntungan sepihak. Ketiadaan perlindungan hak privasi dan akses ruang banding yang setara bagi subjek data terdampak mencerminkan pelanggaran terhadap prinsip keadilan sosial di ruang digital.
 
+*   #### 5.2. Penyelarasan Nilai Kepancasilaan Universitas Pancasila (UP)
+*   *Integritas:* Facebook dan Cambridge Analytica secara nyata melanggar nilai integritas melalui tindakan penyembunyian cacat Graph API dan pemindahtanganan data ilegal. Pengembang gagal mempertahankan kejujuran ilmiah dan transparansi profesional.
+*   *Kepedulian:* Terjadi pengabaian total (professional negligence) terhadap keselamatan hak privasi konsumen. Metrik pertumbuhan profit platform ditempatkan jauh di atas kepedulian terhadap keamanan data pribadi subjek.
+*   *Harmonis:* Tindakan pembiaran manipulasi data berujung pada terciptanya gelembung informasi (filter bubbles) yang merusak keharmonisan kehidupan bermasyarakat, memicu konflik horizontal berbasis sentimen psikometrik yang dieksploitasi.
+*   *Kolaboratif:* Hubungan kerja sama antara Dr. Aleksandr Kogan (GSR) dengan Cambridge Analytica dikategorikan sebagai kolaborasi transgresif yang merusak kepercayaan publik, bertentangan dengan prinsip kolaborasi positif demi kemaslahatan ilmu pengetahuan.
+*   *Profesionalisme:* Sebagai calon profesional informatika, kegagalan penegakan prinsip Privacy by Design dalam kasus ini menjadi cerminan runtuhnya kompetensi moral dan tanggung jawab keahlian yang seharusnya melekat pada seorang arsitek rekayasa perangkat lunak.
 
 ### 6. Kepatuhan Kode Etik Profesi Internasional 
 
