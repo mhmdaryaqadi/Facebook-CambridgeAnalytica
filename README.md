@@ -67,7 +67,11 @@ Berdasarkan hasil investigasi resmi dari *Federal Trade Commission* (FTC) Amerik
 *   **Komersialisasi Data Ilegal:** Terjadi transfer data dan transaksi komersial ilegal dari Global Science Research (GSR) oleh Dr. Aleksandr Kogan kepada Cambridge Analytica yang melanggar *Developer Terms of Service* Facebook.
 *   **Kelalaian Pengawasan Platform:** Facebook telah mengetahui pelanggaran transfer data ini sejak akhir tahun 2015 namun menolak untuk melakukan audit teknis forensik secara mandiri dan hanya mengandalkan surat pernyataan kepatuhan tertulis dari Cambridge Analytica.
 *   **Sanksi Hukum Resmi:** Facebook secara resmi dijatuhi sanksi denda administratif sebesar 5 Miliar Dolar AS oleh FTC pada tahun 2019 atas pelanggaran penyelesaian hak privasi konsumen (*privacy settlement*), serta denda sebesar 500.000 Poundsterling oleh ICO Inggris.
-
+*   
+#### 2.2. Catatan Transparansi Informasi (Status Investigasi dan Sengketa)
+Untuk menjaga integritas laporan ilmiah, komponen berikut diklasifikasikan sebagai informasi yang sempat berada dalam sengketa atau memerlukan catatan transparansi khusus:
+*   **Kuantifikasi Efektivitas Algoritma:** Klaim dari *whistleblower* Christopher Wylie mengenai tingkat efektivitas model psikometri OCEAN dalam mengubah keputusan politik pemilih secara absolut masih menjadi perdebatan akademis. Para peneliti ilmu sosial digital memisahkan antara fakta "keberhasilan pengumpulan data" dengan klaim "keberhasilan manipulasi psikologis total", karena tidak ada metrik yang dapat mengukur persentase murni perubahan suara pemilih yang hanya disebabkan oleh iklan media sosial.
+*   **Keterlibatan Manajemen Eksekutif Tertinggi:** Status pengetahuan Mark Zuckerberg secara personal pada menit-menit awal kebocoran arsitektur Graph API di tahun 2014 sempat menjadi subjek sengketa informasi antara tim hukum internal platform dengan otoritas investigator hukum kongres sebelum akhirnya regulasi membuktikan adanya kelalaian sistemik korporasi.
 
 ### 3. Pemetaan Pemangku Kepentingan & Relasi Kuasa 
 
