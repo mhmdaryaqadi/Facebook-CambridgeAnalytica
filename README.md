@@ -100,7 +100,16 @@ Analisis pemangku kepentingan (*stakeholders*) dalam skandal Facebook-Cambridge 
 Investigasi kelompok kami menunjukkan adanya ketimpangan kuasa (*power asymmetry*) yang masif. Korporasi teknologi raksasa (Facebook) dan agensi mahadata (Cambridge Analytica) memegang kendali penuh atas asimetri informasi, di mana mereka mengetahui secara presisi kerentanan psikologis subjek data melalui komputasi tingkat tinggi. Sebaliknya, 87 juta subjek data berada dalam kondisi ketidaktahuan total (*total ignorance*), tidak mampu memverifikasi ke mana data mereka dialirkan, dan hak otonomi mereka sebagai manusia direduksi menjadi komoditas finansial murni. Ketimpangan relasi kuasa inilah yang menjadi celah utama runtuhnya ketahanan etika fungsional teknologi.
 
 ### 4. Analisis Berdasarkan Empat Teori Etika Moral 
+Evaluasi etika terhadap tindakan Facebook Inc. dan Cambridge Analytica dilakukan secara eksplisit menggunakan empat kerangka filsafat moral normatif sebagai berikut:
 
+#### 4.1. Analisis Utilitarianisme
+Teori Utilitarianisme (Jeremy Bentham & John Stuart Mill) menyatakan bahwa suatu tindakan dianggap benar secara moral jika mampu menghasilkan kemanfaatan atau kebahagiaan terbesar bagi jumlah orang terbanyak (*the greatest happiness for the greatest number*), serta meminimalkan penderitaan (*harm*).
+*   **Aplikasi Kasus:** Tindakan pemanenan data oleh Cambridge Analytica dan pembiaran celah arsitektur oleh Facebook secara mutlak gagal memenuhi standar moral utilitarian. Kebahagiaan atau keuntungan finansial-politik hanya dirasakan oleh segelintir entitas korporasi dan aktor politik.
+*   **Kalkulasi Utilitas:** Di sisi lain, tindakan ini mendistribusikan penderitaan (*harm*) berskala masif berupa pelanggaran hak privasi 87 juta individu, erosi kepercayaan publik terhadap ekosistem digital, serta polarisasi sosial akibat paparan propaganda kognitif. Berdasarkan kalkulasi utilitas net, tindakan ekosistem industri data ini menghasilkan akumulasi penderitaan yang jauh melampaui utilitas positifnya, sehingga diklasifikasikan sebagai tindakan yang cacat moral.
+
+#### 4.2. Analisis Deontologi
+Teori Deontologi (Immanuel Kant) menekankan bahwa moralitas suatu tindakan dinilai berdasarkan kepatuhannya terhadap kewajiban (*duty*) dan prinsip moral imperatif kategoris, terlepas dari hasil akhir yang diperoleh. Kant merumuskan bahwa manusia harus selalu diperlakukan sebagai tujuan pada dirinya sendiri (*end in itself*), dan tidak pernah boleh direduksi sekadar sebagai sarana (*mere means*).
+*   **Aplikasi Kasus:** Facebook memiliki kewajiban moral *a priori* untuk melindungi integritas privasi subjek data yang mempercayakan identitas mereka pada platform. Ketika Facebook membiarkan eksploitasi fitur Graph API demi pertumbuhan metrik dan Cambridge Analytica memperjualbelikan basis data tersebut, kedua entitas ini secara sadar memperlakukan 87 juta manusia sekadar sebagai komoditas atau alat (sarana) demi meraih profitabilitas ekonomi dan kemenangan politik klien. Tindakan ini melanggar maksim universalitas dan kewajiban moral fundamental, sehingga dinilai tidak etis secara deontologis.
 
 ### 5. Lensa Kelima Pancasila & Nilai Luhur UP 
 
