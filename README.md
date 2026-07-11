@@ -61,6 +61,12 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 
 ### 2. Fakta Kunci & Catatan Transparansi 
+#### 2.1. Fakta Terverifikasi Otoritas Hukum
+Berdasarkan hasil investigasi resmi dari *Federal Trade Commission* (FTC) Amerika Serikat, *Information Commissioner's Office* (ICO) Inggris, serta dokumen pengakuan resmi dalam dengar pendapat parlemen (*Congressional Hearings*), berikut adalah fakta-fakta yang telah berkekuatan hukum tetap:
+*   **Volume Pelanggaran Data:** Total subjek data yang diekstraksi secara tidak sah tanpa persetujuan eksplisit melalui mekanisme API Facebook mencapai 87 juta pengguna global, dengan mayoritas domisili subjek berada di wilayah Amerika Serikat.
+*   **Komersialisasi Data Ilegal:** Terjadi transfer data dan transaksi komersial ilegal dari Global Science Research (GSR) oleh Dr. Aleksandr Kogan kepada Cambridge Analytica yang melanggar *Developer Terms of Service* Facebook.
+*   **Kelalaian Pengawasan Platform:** Facebook telah mengetahui pelanggaran transfer data ini sejak akhir tahun 2015 namun menolak untuk melakukan audit teknis forensik secara mandiri dan hanya mengandalkan surat pernyataan kepatuhan tertulis dari Cambridge Analytica.
+*   **Sanksi Hukum Resmi:** Facebook secara resmi dijatuhi sanksi denda administratif sebesar 5 Miliar Dolar AS oleh FTC pada tahun 2019 atas pelanggaran penyelesaian hak privasi konsumen (*privacy settlement*), serta denda sebesar 500.000 Poundsterling oleh ICO Inggris.
 
 
 ### 3. Pemetaan Pemangku Kepentingan & Relasi Kuasa 
