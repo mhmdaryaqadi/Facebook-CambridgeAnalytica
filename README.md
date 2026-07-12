@@ -90,6 +90,22 @@ Rekonstruksi rangkaian peristiwa eksploitasi data berskala besar ini disusun ber
 
 ### 7. Analisis Regulasi Yuridis & Yurisdiksi Hukum 
 
+Evaluasi yuridis terhadap skandal Facebook-Cambridge Analytica dianalisis menggunakan kerangka hukum positif Republik Indonesia serta pemisahan yurisdiksi tanggung jawab sebagai berikut:
+
+#### 7.1. Evaluasi Berdasarkan UU Pelindungan Data Pribadi (UU PDP No. 27 Tahun 2022)
+Meskipun secara kronologis insiden ini terjadi sebelum pengesahan UU PDP No. 27 Tahun 2022 (asas legalitas/non-retroaktif), instrumen ini sangat krusial digunakan sebagai kerangka evaluasi yuridis kontemporer terhadap tata kelola data platform.
+*   **Pelanggaran Asas Pemrosesan Data (Pasal 16):** UU PDP mewajibkan pemrosesan data pribadi dilakukan secara terbatas, spesifik, sah secara hukum, dan transparan. Tindakan eksploitasi data pengguna untuk kepentingan micro-targeting politik di luar tujuan awal pengumpulan data (kuis kepribadian) merupakan pelanggaran absolut terhadap pasal ini.
+*   **Kegagalan Dasar Hukum Pemrosesan (Pasal 20):** Pengumpul data wajib memiliki dasar hukum (*lawful basis*) yang sah, salah satunya berupa persetujuan sah yang eksplisit (*explicit consent*). Penyerapan data jaringan pertemanan (*third-party data*) tanpa interaksi otorisasi langsung tidak memiliki dasar hukum yuridis yang sah di bawah kerangka UU PDP.
+*   **Ketentuan Sanksi Kontemporer:** Jika insiden ini dievaluasi dengan yurisdiksi hukum Indonesia saat ini, kebocoran data berskala masif akibat kelalaian sistemik dapat menjatuhkan sanksi administratif berupa penghentian pemrosesan, penghapusan data, hingga denda denda administratif paling tinggi 2 persen dari pendapatan tahunan terhadap korporasi selaku Pengendali Data Pribadi.
+
+#### 7.2. Evaluasi Berdasarkan UU Informasi dan Transaksi Elektronik (UU ITE)
+*   **Pelanggaran Hak Otonomi Data (Pasal 26 ayat 1):** UU ITE menegaskan bahwa kecuali ditentukan lain oleh peraturan perundang-undangan, penggunaan setiap informasi melalui media elektronik yang menyangkut data pribadi seseorang harus dilakukan atas persetujuan (*consent*) orang yang bersangkutan.
+*   **Keabsahan Persetujuan Digital:** Kasus ini membuktikan secara yuridis bahwa persetujuan yang diperoleh melalui manipulasi antarmuka digital (*dark patterns*) atau klausul tersembunyi berstatus tidak sah secara hukum. Subjek data yang haknya dilanggar berhak mengajukan gugatan atas kerugian yang ditimbulkan berdasarkan Pasal 26 ayat 2 UU ITE.
+
+#### 7.3. Pemisahan Tegas Tanggung Jawab Hukum (Legal) vs Tanggung Jawab Moral
+Investigasi kelompok kami memisahkan batas akuntabilitas platform ke dalam dua domain:
+1.  **Tanggung Jawab Hukum (Legal Responsibility):** Terikat pada kepatuhan formal terhadap pemenuhan dokumen kontrak, *Developer Terms of Service*, dan aturan tertulis di masing-masing yurisdiksi negara (seperti kepatuhan formal Facebook terhadap *Consent Decree* FTC di AS). Secara prosedural arsitektur API pada tahun 2014, penarikan data tersebut dimungkinkan oleh sistem, namun eksploitasi komersialnya melanggar batas legalitas perjanjian kontrak pihak ketiga.
+2.  **Tanggung Jawab Moral (Moral Responsibility):** Berada pada tataran etika profesi rekayasa perangkat lunak. Meskipun suatu fitur secara prosedural teknis "diizinkan" atau belum diatur oleh undang-undang spesifik pada masa itu, pengembang platform memiliki tanggung jawab moral *a priori* untuk menerapkan prinsip *Privacy by Design* demi melindungi hak privasi subjek data yang rentan. Ketiadaan regulasi hukum formal tidak boleh dijadikan pembenaran etis atas tindakan komodifikasi identitas manusia.
 
 ### 8. Checkpoint Integritas & Pencegahan Penyalahgunaan Kewenangan 
 
