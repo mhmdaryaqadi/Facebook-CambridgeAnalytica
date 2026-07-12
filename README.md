@@ -118,6 +118,13 @@ Analisis pemangku kepentingan (*stakeholders*) dalam skandal Facebook-Cambridge 
 #### 3.5. Analisis Asimetri Relasi Kuasa
 Investigasi kelompok kami menunjukkan adanya ketimpangan kuasa (*power asymmetry*) yang masif. Korporasi teknologi raksasa (Facebook) dan agensi mahadata (Cambridge Analytica) memegang kendali penuh atas asimetri informasi, di mana mereka mengetahui secara presisi kerentanan psikologis subjek data melalui komputasi tingkat tinggi. Sebaliknya, 87 juta subjek data berada dalam kondisi ketidaktahuan total (*total ignorance*), tidak mampu memverifikasi ke mana data mereka dialirkan, dan hak otonomi mereka sebagai manusia direduksi menjadi komoditas finansial murni. Ketimpangan relasi kuasa inilah yang menjadi celah utama runtuhnya ketahanan etika fungsional teknologi.
 
+<div align="center">
+  <img width="3893" height="2095" alt="etprof1" src="https://github.com/user-attachments/assets/8bbab58f-8620-4f05-bdae-d8c58323d3b3" />
+  <br>
+    <em>Gambar 3.1: Peta Struktur Relasi Kuasa dan Asimetri Informasi Antar Pemangku Kepentingan</em>
+  </div>
+
+
 ### 4. Analisis Berdasarkan Empat Teori Etika Moral 
 Evaluasi etika terhadap tindakan Facebook Inc. dan Cambridge Analytica dilakukan secara eksplisit menggunakan empat kerangka filsafat moral normatif sebagai berikut:
 
