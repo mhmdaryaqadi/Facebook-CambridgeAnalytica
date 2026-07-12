@@ -83,10 +83,36 @@ Rekonstruksi rangkaian peristiwa eksploitasi data berskala besar ini disusun ber
 
 
 ### 5. Lensa Kelima Pancasila & Nilai Luhur UP 
+Analisis komprehensif terhadap skandal pemanenan data Facebook-Cambridge Analytica dievaluasi melalui dasar filosofis negara (Sila 1–5) serta lima Nilai Kepancasilaan Universitas Pancasila (UP):
+*   *Sila Pertama - Ketuhanan Yang Maha Esa:* Eksploitasi identitas digital demi profit dan kekuasaan politik mencerminkan pengabaian terhadap eksistensi moralitas ketuhanan yang mewajibkan setiap manusia memperlakukan sesamanya dengan kejujuran mutlak. Penipuan sistemik dan manipulasi psikologis terselubung merupakan bentuk pengingkaran terhadap nilai-nilai spiritual dan nurani luhur kemanusiaan.
+*   *Sila Kedua - Kemanusiaan yang Adil dan Beradab:* Komodifikasi identitas digital manusia menjadi komoditas finansial murni oleh data broker merupakan bentuk degradasi terhadap harkat dan martabat manusia. Tindakan memperlakukan 87 juta subjek data sebagai instrumen manipulasi kognitif tanpa adab perlindungan privasi merupakan pelanggaran berat terhadap hak asasi kemanusiaan.
+*   *Sila Ketiga - Persatuan Indonesia:* Senjataisasi algoritma melalui taktik political micro-targeting dirancang khusus untuk mengeksploitasi bias psikologis dan ketakutan individu. Hal ini memicu radikalisasi opini, penyebaran berita bohong secara masif, dan pengkutuban sosial yang secara langsung mengancam kohesi serta persatuan nasional dalam masyarakat demokratis.
+*   *Sila Keempat - Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan:* Skandal ini merusak pilar otonomi informasi yang krusial bagi demokrasi yang sehat. Ketika hak masyarakat untuk mendapatkan informasi yang objektif didistorsi oleh propaganda terselubung (dark ads), maka asas kedaulatan rakyat dan pengambilan keputusan yang bijaksana dalam proses politik telah dicederai secara sistemik.
+*   *Sila Kelima - Keadilan Sosial bagi Seluruh Rakyat Indonesia:* Terjadi ketimpangan keadilan (asymmetry) yang masif di mana korporasi teknologi raksasa memonopoli kontrol atas mahadata masyarakat demi keuntungan sepihak. Ketiadaan perlindungan hak privasi dan akses ruang banding yang setara bagi subjek data terdampak mencerminkan pelanggaran terhadap prinsip keadilan sosial di ruang digital.
 
+*   #### 5.2. Penyelarasan Nilai Kepancasilaan Universitas Pancasila (UP)
+*   *Integritas:* Facebook dan Cambridge Analytica secara nyata melanggar nilai integritas melalui tindakan penyembunyian cacat Graph API dan pemindahtanganan data ilegal. Pengembang gagal mempertahankan kejujuran ilmiah dan transparansi profesional.
+*   *Kepedulian:* Terjadi pengabaian total (professional negligence) terhadap keselamatan hak privasi konsumen. Metrik pertumbuhan profit platform ditempatkan jauh di atas kepedulian terhadap keamanan data pribadi subjek.
+*   *Harmonis:* Tindakan pembiaran manipulasi data berujung pada terciptanya gelembung informasi (filter bubbles) yang merusak keharmonisan kehidupan bermasyarakat, memicu konflik horizontal berbasis sentimen psikometrik yang dieksploitasi.
+*   *Kolaboratif:* Hubungan kerja sama antara Dr. Aleksandr Kogan (GSR) dengan Cambridge Analytica dikategorikan sebagai kolaborasi transgresif yang merusak kepercayaan publik, bertentangan dengan prinsip kolaborasi positif demi kemaslahatan ilmu pengetahuan.
+*   *Profesionalisme:* Sebagai calon profesional informatika, kegagalan penegakan prinsip Privacy by Design dalam kasus ini menjadi cerminan runtuhnya kompetensi moral dan tanggung jawab keahlian yang seharusnya melekat pada seorang arsitek rekayasa perangkat lunak.
 
 ### 6. Kepatuhan Kode Etik Profesi Internasional 
+Investigasi kelompok kami memetakan bahwa praktik rekayasa perangkat lunak dan tata kelola data dalam skandal Facebook-Cambridge Analytica secara eksplisit melanggar klausul-klausul fundamental dalam ACM/IEEE Code of Ethics and Professional Conduct. Pelanggaran tersebut dianalisis pada poin-poin berikut:
+*   *Ketentuan Kode Etik:* Profesional IT wajib meminimalkan konsekuensi negatif dari sistem komputasi, termasuk pelanggaran privasi, cedera fisik, maupun kerusakan sosial-ekonomi.
+*   *Analisis Kasus:* Pengembang Facebook melakukan pembiaran (professional negligence) terhadap kerentanan arsitektural Graph API v1.0 demi akselerasi metrik bisnis. Tindakan ini memicu bahaya (harm) masif berupa eksploitasi psikometrik terhadap 87 juta individu serta polarisasi sosial global, yang bertentangan secara absolut dengan kewajiban untuk menghindari bahaya.
 
+*   #### 6.2. Pelanggaran Klausul 1.6: Menghormati Privasi (Respect Privacy)
+*   *Ketentuan Kode Etik:* Profesional IT wajib memahami bahwa privasi adalah hak asasi terintegrasi. Pengumpulan, transfer, dan penyimpanan data pribadi hanya boleh dilakukan atas persetujuan yang transparan dan sah dari pemilik data.
+*   *Analisis Kasus:* Implementasi endpoint permission user_friends secara sengaja dirancang untuk menyedot data pihak ketiga (jaringan pertemanan pengguna utama) tanpa adanya interaksi otorisasi langsung. Tindakan pemanenan data masif (data harvesting) tanpa informed consent ini merupakan bentuk pelanggaran fatal terhadap klausul perlindungan privasi subjek data.
+
+*   #### 6.3. Pelanggaran Klausul 2.3: Mematuhi Hukum dan Regulasi (Know and Respect Existing Rules)
+*   *Ketentuan Kode Etik:* Profesional TI wajib mengetahui, memahami, dan mematuhi peraturan hukum, standar industri, serta ketentuan kebijakan operasional yang berlaku.
+*   *Analisis Kasus:* Dr. Aleksandr Kogan secara sadar melanggar Developer Terms of Service Facebook dengan memindahtangan data komersial kepada Cambridge Analytica. Di sisi lain, Cambridge Analytica secara sengaja melanggar regulasi perlindungan data di berbagai yurisdiksi demi kepentingan manipulasi politik klien.
+
+*   #### 6.4. Pelanggaran Klausul 2.5: Mengutamakan Penilaian Kualitatif Profesional (Give Comprehensive and Thorough Evaluations)
+*   *Ketentuan Kode Etik:* Profesional IT wajib melakukan evaluasi risiko yang menyeluruh terhadap sistem komputasi dan dampaknya bagi masyarakat sipil.
+*   *Analisis Kasus:* Tim perekayasa perangkat lunak Facebook gagal menerapkan prinsip Privacy by Design pada fase perancangan Graph API. Ketika cacat keamanan fungsional terdeteksi pada akhir 2015, manajemen platform memilih jalan pintas berupa perjanjian penghapusan data tertulis sepihak tanpa melakukan audit forensik digital lanjutan, demi melindungi kepentingan reputasi korporasi di atas keselamatan subjek data.
 
 ### 7. Analisis Regulasi Yuridis & Yurisdiksi Hukum 
 
