@@ -99,6 +99,9 @@ Berdasarkan hasil pemetaan matriks risiko di atas, formulasi opsi perlakuan risi
 
 *   **1. Terminate (Tinggalkan / Hentikan):** Diterapkan secara mutlak pada risiko **R-01**. Platform wajib menghentikan operasional fungsional Graph API versi 1.0 yang membuka akses data jaringan pertemanan melalui endpoint `user_friends`. Kebijakan otorisasi data harus didepridasi total untuk menghapus celah eksploitasi data pasif subjek pihak ketiga.
 
+*   **2. Treat (Tangani / Mitigasi):** Diterapkan pada risiko **R-02**. Pengembang platform wajib mengimplementasikan kontrol preventif berupa pembatasan ketat autentikasi OAuth (*Scope Restriction*) hanya pada profil dasar dan alamat email resmi. Selain itu, wajib dilakukan penegakan prosedur *third-party monitoring* secara berkala melalui audit forensik digital terjadwal untuk memverifikasi kepatuhan penggunaan data oleh pengembang aplikasi eksternal.
+
+
 
 ### 10. Rancangan Dampak Sosial & Kontrol Preventif Rekayasa Perangkat Lunak 
 
