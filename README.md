@@ -85,6 +85,15 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 Analisis manajemen risiko ini disusun berdasarkan kerangka kerja standar ISO 31000 dengan menempatkan posisi kelompok sebagai tim evaluator arsitektur teknologi informasi pada platform penyedia data skala masif.
 
+#### 9.1. Identifikasi dan Matriks Analisis Risiko
+Proses identifikasi risiko difokuskan pada tiga ancaman struktural yang terjadi dalam ekosistem platform:
+
+| ID Risiko | Deskripsi Ancaman Risiko | Probabilitas (1-5) | Dampak (1-5) | Tingkat Risiko (PxD) | Kesimpulan Status Risiko |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **R-01** | Kebocoran data agregat subjek pihak ketiga akibat pelonggaran otorisasi cakupan (*permission scopes*) pada endpoint API pihak ketiga. | 5 (Sangat Tinggi) | 5 (Katastropik) | 25 | **Critical (Ekstrim)** |
+| **R-02** | Pelanggaran regulasi perlindungan data internasional akibat transaksi pemindahtanganan data ilegal oleh mitra pengembang eksternal. | 4 (Tinggi) | 5 (Katastropik) | 20 | **High (Tinggi)** |
+| **R-03** | Penurunan nilai kapitalisasi pasar korporasi dan runtuhnya reputasi institusional akibat penundaan eksposur publik (*concealment of defect*). | 3 (Sedang) | 5 (Katastropik) | 15 | **High (Tinggi)** 
+
 
 ### 10. Rancangan Dampak Sosial & Kontrol Preventif Rekayasa Perangkat Lunak 
 
