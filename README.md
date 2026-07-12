@@ -63,6 +63,12 @@ Insiden pelanggaran privasi global ini tidak diinisiasi oleh penetrasi paksa ata
 
 Secara arsitektural, Protokol OAuth dan Graph API pada periode tersebut didesain untuk memaksimalkan interkoneksi ekosistem aplikasi pihak ketiga (*third-party developers*). Ketika seorang pengguna memberikan otorisasi akses kepada suatu aplikasi, *endpoint* `user_friends` secara otomatis membuka gerbang akses data agregat yang mencakup profil, preferensi, dan jaringan pertemanan dari pengguna utama tersebut. Implikasinya, seluruh individu yang berada dalam relasi pertemanan pengguna utama ikut terekstraksi datanya, meskipun subjek data pihak ketiga tersebut tidak pernah berinteraksi, memberikan izin, atau mengonfirmasi persetujuan (*informed consent*) secara langsung terhadap aplikasi bersangkutan.
 
+<div align="center">
+  <img width="8192" height="1972" alt="etprof2" src="https://github.com/user-attachments/assets/e758341d-7e6c-461d-b41d-afca3803f036" />
+  <br>
+  <em>Gambar 1.1: Sequence Diagram Alur Pemanenan dan Otorisasi Akses Pihak Ketiga pada Graph API v1.0</em>
+</div>
+
 #### 1.2. Linimasa dan Kronologi Peristiwa
 Rekonstruksi rangkaian peristiwa eksploitasi data berskala besar ini disusun berdasarkan urutan waktu kejadian sebagai berikut:
 
