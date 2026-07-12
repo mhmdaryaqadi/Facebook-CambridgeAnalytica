@@ -101,6 +101,7 @@ Berdasarkan hasil pemetaan matriks risiko di atas, formulasi opsi perlakuan risi
 
 *   **2. Treat (Tangani / Mitigasi):** Diterapkan pada risiko **R-02**. Pengembang platform wajib mengimplementasikan kontrol preventif berupa pembatasan ketat autentikasi OAuth (*Scope Restriction*) hanya pada profil dasar dan alamat email resmi. Selain itu, wajib dilakukan penegakan prosedur *third-party monitoring* secara berkala melalui audit forensik digital terjadwal untuk memverifikasi kepatuhan penggunaan data oleh pengembang aplikasi eksternal.
 
+*   **3. Transfer (Alihkan Risiko):** Diterapkan pada aspek tanggung jawab operasional hukum pengolahan data. Risiko hukum dialihkan melalui klausul hukum yang mengikat (*Developer Terms of Service*) yang secara eksplisit memindahkan tanggung jawab pidana dan ganti rugi perdata kepada pihak ketiga (pengembang aplikasi) apabila terbukti melakukan pemindahtanganan data komersial tanpa izin. Risiko finansial korporasi juga dialihkan melalui pemanfaatan instrumen asuransi siber (*cyber insurance*).
 
 
 ### 10. Rancangan Dampak Sosial & Kontrol Preventif Rekayasa Perangkat Lunak 
