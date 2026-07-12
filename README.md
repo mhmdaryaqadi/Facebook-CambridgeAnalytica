@@ -109,6 +109,19 @@ Investigasi kelompok kami memisahkan batas akuntabilitas platform ke dalam dua d
 
 ### 8. Checkpoint Integritas & Pencegahan Penyalahgunaan Kewenangan 
 
+Berdasarkan parameter penugasan Project-Based Learning Etika Profesi, dimensi integritas dan anti-korupsi dalam ranah teknologi informasi dianalisis secara komprehensif sebagai bentuk pencegahan penyalahgunaan kewenangan serta manipulasi posisi dominan korporasi demi keuntungan sepihak. Evaluasi terhadap kasus ini dipetakan ke dalam beberapa bentuk pelanggaran integritas berikut:
+
+#### 8.1. Penyalahgunaan Posisi Dominan dan Kepercayaan (Abuse of Trust)
+Facebook Inc. memegang peranan sebagai pemelihara ekosistem digital yang menguasai data miliaran manusia secara global. Posisi dominan ini melahirkan kewajiban etis berupa penjagaan kepercayaan publik (*fiduciary duty*). Namun, investigasi membuktikan terjadinya pengabaian profesional (*professional negligence*) yang terstruktur. Pihak platform menyalahgunakan kepercayaan pengguna dengan membiarkan arsitektur data fungsionalnya dieksploitasi oleh pihak ketiga tanpa mitigasi ketat, demi menjaga pertumbuhan ekonomi korporasi berbasis monetisasi data identitas digital.
+
+#### 8.2. Penyembunyian Cacat Fungsional Sistem (Concealment of Defect)
+Pelanggaran integritas paling krusial terjadi ketika manajemen Facebook mendeteksi adanya transaksi pemindahtanganan basis data secara ilegal dari Global Science Research (GSR) ke Cambridge Analytica pada akhir tahun 2015. Alih-alih mengumumkan insiden kebocoran privasi ini kepada 87 juta subjek data terdampak atau melaporkannya kepada otoritas regulasi hukum, Facebook secara sadar memilih untuk menyembunyikan cacat penegakan kebijakan tersebut dari publik demi proteksi nilai kapitalisasi pasar korporasi. Penyelarasan tindakan ini dikategorikan sebagai bentuk ketidakjujuran profesional yang menempatkan metrik finansial di atas transparansi informasi.
+
+#### 8.3. Konflik Kepentingan (Conflict of Interest)
+Terdapat benturan kepentingan yang tidak terselesaikan antara komitmen etis pelindungan privasi dengan model bisnis inti platform yang bergantung pada pendapatan periklanan mikro (*targeted advertising*). Facebook membiarkan kebijakan pelonggaran otorisasi pihak ketiga berjalan tanpa pengawasan ketat (*third-party monitoring*) karena ekosistem aplikasi eksternal berkontribusi langsung pada peningkatan durasi keterikatan pengguna (*user engagement*) dan volume pertukaran data. Ketika profitabilitas bisnis berbenturan dengan keselamatan data subjek, integritas arsitektur rekayasa perangkat lunak dikompromikan demi memenangkan kepentingan pasar.
+
+#### 8.4. Lensa Integrasi Anti-Korupsi Sektor Publik (Kontekstualisasi)
+Meskipun kasus Facebook-Cambridge Analytica melibatkan entitas korporasi privat internasional, bentuk senjataisasi data ini memberikan dampak transgresif terhadap institusi negara dan proses demokrasi. Tindakan penyalahgunaan kewenangan digital oleh pengembang platform dan transaksi pemanfaatan data broker untuk rekayasa opini politik secara terselubung mencerminkan korupsi terhadap nilai kejujuran informasi. Dalam skala yurisdiksi nasional, pembiaran atau manipulasi data yang menyerang hak kedaulatan informasi publik diklasifikasikan sebagai bentuk kejahatan integritas tingkat tinggi yang mencederai keadilan sosial dan stabilitas tata kelola pemilu yang bersih.
 
 ### 9. Manajemen Risiko Teknologi Berbasis Kerangka ISO 31000 
 
