@@ -92,7 +92,12 @@ Proses identifikasi risiko difokuskan pada tiga ancaman struktural yang terjadi 
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **R-01** | Kebocoran data agregat subjek pihak ketiga akibat pelonggaran otorisasi cakupan (*permission scopes*) pada endpoint API pihak ketiga. | 5 (Sangat Tinggi) | 5 (Katastropik) | 25 | **Critical (Ekstrim)** |
 | **R-02** | Pelanggaran regulasi perlindungan data internasional akibat transaksi pemindahtanganan data ilegal oleh mitra pengembang eksternal. | 4 (Tinggi) | 5 (Katastropik) | 20 | **High (Tinggi)** |
-| **R-03** | Penurunan nilai kapitalisasi pasar korporasi dan runtuhnya reputasi institusional akibat penundaan eksposur publik (*concealment of defect*). | 3 (Sedang) | 5 (Katastropik) | 15 | **High (Tinggi)** 
+| **R-03** | Penurunan nilai kapitalisasi pasar korporasi dan runtuhnya reputasi institusional akibat penundaan eksposur publik (*concealment of defect*). | 3 (Sedang) | 5 (Katastropik) | 15 | **High (Tinggi)**
+
+#### 9.2. Formulasi Opsi Mitigasi Penanganan Risiko (Strategi 4T)
+Berdasarkan hasil pemetaan matriks risiko di atas, formulasi opsi perlakuan risiko ditentukan melalui kerangka kerja 4T sebagai berikut:
+
+*   **1. Terminate (Tinggalkan / Hentikan):** Diterapkan secara mutlak pada risiko **R-01**. Platform wajib menghentikan operasional fungsional Graph API versi 1.0 yang membuka akses data jaringan pertemanan melalui endpoint `user_friends`. Kebijakan otorisasi data harus didepridasi total untuk menghapus celah eksploitasi data pasif subjek pihak ketiga.
 
 
 ### 10. Rancangan Dampak Sosial & Kontrol Preventif Rekayasa Perangkat Lunak 
