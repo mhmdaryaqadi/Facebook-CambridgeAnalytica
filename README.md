@@ -83,6 +83,8 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 ### 9. Manajemen Risiko Teknologi Berbasis Kerangka ISO 31000 
 
+Analisis manajemen risiko ini disusun berdasarkan kerangka kerja standar ISO 31000 dengan menempatkan posisi kelompok sebagai tim evaluator arsitektur teknologi informasi pada platform penyedia data skala masif.
+
 
 ### 10. Rancangan Dampak Sosial & Kontrol Preventif Rekayasa Perangkat Lunak 
 
