@@ -103,6 +103,7 @@ Berdasarkan hasil pemetaan matriks risiko di atas, formulasi opsi perlakuan risi
 
 *   **3. Transfer (Alihkan Risiko):** Diterapkan pada aspek tanggung jawab operasional hukum pengolahan data. Risiko hukum dialihkan melalui klausul hukum yang mengikat (*Developer Terms of Service*) yang secara eksplisit memindahkan tanggung jawab pidana dan ganti rugi perdata kepada pihak ketiga (pengembang aplikasi) apabila terbukti melakukan pemindahtanganan data komersial tanpa izin. Risiko finansial korporasi juga dialihkan melalui pemanfaatan instrumen asuransi siber (*cyber insurance*).
 
+*   **4. Tolerate (Terima Risiko):** Diterapkan pada sisa risiko residu (*residual risk*) setelah kontrol teknis diterapkan, seperti risiko adanya erosi data minimal akibat interaksi normal antarmuka yang sah oleh pengguna. Risiko ini dapat ditoleransi karena berada dalam batas ambang batas risiko (*risk appetite*) operasional platform yang dibutuhkan untuk menjaga interkonektivitas ekosistem aplikasi.
 
 ### 10. Rancangan Dampak Sosial & Kontrol Preventif Rekayasa Perangkat Lunak 
 
